@@ -1,4 +1,7 @@
 Red
 Black
+Orange
+Indigo
 White
 Grey
+Yellow
